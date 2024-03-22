@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-business-ana</title>
+    <g id="2022.12.06" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Our-Business" transform="translate(-748.000000, -1470.000000)">
+            <g id="icon-business-ana" transform="translate(748.000000, 1470.000000)">
+                <path d="M38.5,5 L45.5,5 C47.1568542,5 48.5,6.34314575 48.5,8 L48.5,43 C48.5,44.6568542 47.1568542,46 45.5,46 L38.5,46 L38.5,46" id="Rectangle" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle" x="0" y="0" width="49" height="49"></rect>
+                <path d="M2.5,5 L7.5,5 C9.15685425,5 10.5,6.34314575 10.5,8 L10.5,43 C10.5,44.6568542 9.15685425,46 7.5,46 L0.5,46 L0.5,46" id="Rectangle-Copy-25" stroke="#979797" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.500000, 25.500000) scale(-1, 1) translate(-5.500000, -25.500000) "></path>
+                <circle id="Oval" stroke="#979797" cx="10" cy="5" r="1.5"></circle>
+                <rect id="Rectangle" stroke="#979797" x="8.5" y="19.5" width="4" height="13" rx="2"></rect>
+                <rect id="Rectangle-Copy-4" stroke="#979797" x="15.5" y="16.5" width="4" height="16" rx="2"></rect>
+                <rect id="Rectangle-Copy-5" stroke="#979797" x="22.5" y="9.5" width="4" height="23" rx="2"></rect>
+                <rect id="Rectangle-Copy-6" stroke="#979797" x="29.5" y="19.5" width="4" height="13" rx="2"></rect>
+                <rect id="Rectangle-Copy-7" stroke="#979797" x="36.5" y="17.5" width="4" height="15" rx="2"></rect>
+                <polyline id="Path-2" stroke="#979797" points="10.5 13 17.5 9.52489471 24.5 1.3686142 31.5 11.6965179 38.5 9.52489471"></polyline>
+                <circle id="Oval" stroke="#979797" fill="#FFFFFF" cx="10.5" cy="12.5" r="1"></circle>
+                <circle id="Oval-Copy" stroke="#979797" fill="#FFFFFF" cx="17.5" cy="9.5" r="1"></circle>
+                <circle id="Oval-Copy-2" stroke="#979797" fill="#FFFFFF" cx="24.5" cy="1.5" r="1"></circle>
+                <circle id="Oval-Copy-3" stroke="#979797" fill="#FFFFFF" cx="31.5" cy="11.5" r="1"></circle>
+                <circle id="Oval-Copy-4" stroke="#979797" fill="#FFFFFF" cx="38.5" cy="9.5" r="1"></circle>
+                <path d="M21,35 L21,45 L20,45 L20,35 L21,35 Z M11,36 L11,44 L10,44 L10,36 L11,36 Z M19,36 L19,44 L18,44 L18,36 L19,36 Z M29,36 L29,44 L28,44 L28,36 L29,36 Z M39,36 L39,44 L38,44 L38,36 L39,36 Z M9,37 L9,43 L8,43 L8,37 L9,37 Z M13,37 L13,43 L12,43 L12,37 L13,37 Z M17,37 L17,43 L16,43 L16,37 L17,37 Z M31,37 L31,43 L30,43 L30,37 L31,37 Z M37,37 L37,43 L36,43 L36,37 L37,37 Z M41,37 L41,43 L40,43 L40,37 L41,37 Z M27,37 L27,43 L26,43 L26,37 L27,37 Z M23,37 L23,43 L22,43 L22,37 L23,37 Z M15,38 L15,42 L14,42 L14,38 L15,38 Z M25,38 L25,42 L24,42 L24,38 L25,38 Z M33,38 L33,42 L32,42 L32,38 L33,38 Z M35,38 L35,42 L34,42 L34,38 L35,38 Z" id="Combined-Shape" fill="#979797"></path>
+            </g>
+        </g>
+    </g>
+</svg>

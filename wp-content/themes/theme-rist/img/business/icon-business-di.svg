@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-business-di</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="26" r="5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="10" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="2022.12.06" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Our-Business" transform="translate(-22.000000, -1470.000000)">
+            <g id="icon-business-di" transform="translate(22.000000, 1470.000000)">
+                <rect id="Rectangle" x="0" y="0" width="49" height="49"></rect>
+                <path d="M24,32 C27.3137085,32 30,29.3137085 30,26 C30,22.6862915 27.3137085,20 24,20 C20.6862915,20 18,22.6862915 18,26" id="Oval" stroke="#7D7D7D" transform="translate(24.000000, 26.000000) rotate(90.000000) translate(-24.000000, -26.000000) "></path>
+                <use id="Oval" stroke="#7D7D7D" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="1,1" xlink:href="#path-1"></use>
+                <path d="M24,39 C31.1797017,39 37,33.1797017 37,26 C37,18.8202983 31.1797017,13 24,13 C16.8202983,13 11,18.8202983 11,26" id="Oval" stroke="#7D7D7D" stroke-dasharray="1,1"></path>
+                <circle id="Oval" stroke="#7D7D7D" cx="24" cy="26" r="11.5"></circle>
+                <path d="M24,11.5 C30.7370895,11.5 37.8434576,16.3824023 45.3652308,26.001384 C37.842581,35.6182 30.7366739,40.5 24,40.5 C17.2665326,40.5 10.4888628,35.6141458 3.61402021,25.9995726 C10.4896984,16.3852518 17.2669477,11.5 24,11.5 L24,11.5 Z" id="Oval" stroke="#7D7D7D"></path>
+                <path d="M38.5,5 L45.5,5 C47.1568542,5 48.5,6.34314575 48.5,8 L48.5,43 C48.5,44.6568542 47.1568542,46 45.5,46 L38.5,46 L38.5,46" id="Rectangle" stroke="#7D7D7D" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M2,5 L7.5,5 C9.15685425,5 10.5,6.34314575 10.5,8 L10.5,43 C10.5,44.6568542 9.15685425,46 7.5,46 L0.5,46 L0.5,46" id="Rectangle-Copy-25" stroke="#7D7D7D" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.500000, 25.500000) scale(-1, 1) translate(-5.500000, -25.500000) "></path>
+                <circle id="Oval" stroke="#7D7D7D" cx="11" cy="5" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

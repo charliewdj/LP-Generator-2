@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-new</title>
+    <defs>
+        <path d="M13.996,37 L13.996,29.134 L19.072,37 L21.304,37 L21.304,24.184 L18.802,24.184 L18.802,32.032 L13.726,24.184 L11.494,24.184 L11.494,37 L13.996,37 Z M32.734,37 L32.734,34.768 L26.794,34.768 L26.794,31.654 L31.852,31.654 L31.852,29.422 L26.794,29.422 L26.794,26.416 L32.734,26.416 L32.734,24.184 L24.292,24.184 L24.292,37 L32.734,37 Z M39.304,37 L41.662,29.224 L44.02,37 L46.108,37 L49.546,24.184 L46.936,24.184 L44.938,32.266 L42.598,24.184 L40.726,24.184 L38.386,32.266 L36.406,24.184 L33.796,24.184 L37.216,37 L39.304,37 Z" id="path-1"></path>
+        <filter x="-1.3%" y="-3.9%" width="105.3%" height="115.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2022.12.06" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-59.000000, -2009.000000)">
+            <g id="icon-new" transform="translate(59.000000, 2009.000000)">
+                <rect id="Rectangle" fill="#366900" x="75" y="0" width="5" height="5"></rect>
+                <rect id="Rectangle-Copy-36" fill="#366900" x="0" y="75" width="5" height="5"></rect>
+                <polygon id="Rectangle" fill="#6DD400" points="39.1111111 0 80 0 0 80 0 39.1111111"></polygon>
+                <g id="NEW" fill-rule="nonzero" transform="translate(30.520000, 30.592000) rotate(-45.000000) translate(-30.520000, -30.592000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
