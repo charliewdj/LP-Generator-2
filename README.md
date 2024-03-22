@@ -8,6 +8,6 @@
    ![リンク先を変更すること](https://github.com/charliewdj/LP-Generator-2/blob/main/Images/2.png "リンク先を変更すること")
 
 4. 編集が終わったら、右上にあるGenerate Pageを押して、Save Page を押したら HTML ファイルを保存できます。 
-   ![右上にあるGenerate Pageを押して、Save Page](https://github.com/elith-co-jp/prj-paper-summary-bot/blob/main/arXiv_RSS_Summary/Images/EC2-4.png "右上にあるGenerate Pageを押して、Save Page")
+   ![右上にあるGenerate Pageを押して、Save Page](https://github.com/charliewdj/LP-Generator-2/blob/main/Images/3.png "右上にあるGenerate Pageを押して、Save Page")
    
 
